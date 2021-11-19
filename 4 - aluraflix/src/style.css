@@ -1,0 +1,47 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://3.bp.blogspot.com/-k5-jIGZ6jHg/V4A9ZYe1IzI/AAAAAAAACKU/Yymls7OtTvg80vr8sCf-XEWCifspGp2HQCLcB/s1920/Beautiful_Scenery_Anime_Girl_At_Sunset_Wallpapers_freecomputerdesktopwallpaper_1920.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+body > img {
+  margin: 5px;
+  max-width:400px;
+  max-height:400px;
+  width: auto;
+  height: auto;
+}
+.anime1 {
+  text-align: left;
+  margin: 0px;
+}
